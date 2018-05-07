@@ -11,7 +11,7 @@ This package was developed as a proof of concept to determine if [geotrellis](ht
 
 ## Installation
 
-Thisppackage requires Java version 8. Check what version you have installed using the following system command `javac -version`. If you see `1.8.0+` then you're good to go. Otherwise, you need to update Java. Note that this might cause problems with other programs installed on your computer. **Do this at your own risk.**
+This package requires Java version 8. Check what version you have installed using the following system command `javac -version`. If you see `1.8.0+` then you're good to go. Otherwise, you need to update Java. Note that this might cause problems with other programs installed on your computer. **Do this at your own risk.**
 
 To update Java on Ubuntu (14.04 LTS) using the following system commands:
 
